@@ -22,7 +22,7 @@ namespace seneca {
 
    // Reads a name from console input
    void read(char* name) {
-      std::cout << "name>\n ";
+      std::cout << "Name>\n ";
       std::cin >> name;
    }
 
