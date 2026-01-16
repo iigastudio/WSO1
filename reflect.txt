@@ -1,0 +1,16 @@
+Tamara Brinckman
+- Used macOS Terminal (SSH)
+- Logged into Matrix from lab desktop
+- Kept only one active SSH session
+- Coded and tested on Matrix
+- Followed citation rules in every file
+- Tracked edits in revision history
+- Compiled with g++ required flags
+- Checked memory with valgrind
+- Used seneca namespace
+- Followed consistent coding style
+- Used proper naming conventions
+- Committed and pushed to GitHub
+- Pulled and submitted via Matrix submit tool
+- Submitted reflection separately
+- All work done individually
